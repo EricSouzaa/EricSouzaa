@@ -1,8 +1,10 @@
-## Olá! Eu sou Eric Souza
+## Hey!!
 
-- 🌱 Estudando JS, HTML, CSS e Python
-- 📫 Contate-me no email: santosericsouza@gmail.com
-- 😄 Pronouns: ele/dele
+My name is Eric, I'm from Brazil and I'm currently B.Sc. Student of Information systems at the Federal University of Sergipe.
+
+👨‍💻 Passionate about Programming, Cyber Security and AI
+
+⭐ Sharing some tech information and my journey at 
 
 <div align="center">
   <a href="https://github.com/EricSouzaa">
