@@ -1,10 +1,10 @@
 ## Hey!!
 
-My name is Eric, I'm from Brazil and I'm currently B.Sc. Student of Information systems at the Federal University of Sergipe.
+My name is Eric, I'm from Brazil and I'm currently Student of Information systems at the Federal University of Sergipe.
 
 👨‍💻 Passionate about Programming, Cyber Security and AI
 
-⭐ Sharing some tech information and my journey at 
+⭐ Sharing some tech information and my journey at @starkclaw_tech
 
 <div align="center">
   <a href="https://github.com/EricSouzaa">
