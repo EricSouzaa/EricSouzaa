@@ -1,7 +1,8 @@
 ## Hey!!
 
 My name is Eric, I'm from Brazil and I'm currently Student of Information systems at the Federal University of Sergipe.
-TESTE 1
+* TESTE 1
+* comando git pull
 
 👨‍💻 Passionate about Programming, Cyber Security and AI
 
