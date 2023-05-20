@@ -3,6 +3,7 @@
 My name is Eric, I'm from Brazil and I'm currently Student of Information systems at the Federal University of Sergipe.
 * TESTE 1
 * comando git pull
+* comando git fetch
 
 👨‍💻 Passionate about Programming, Cyber Security and AI
 
